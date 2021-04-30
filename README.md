@@ -23,7 +23,7 @@ If these properties don't show up that means that you entered the wrong city nam
 
 ## Example
 
-![Image of Weather App](https://github.com/YamiAtem/WeatherApp/blob/master/image-20210430211249947.png)
+![Image of Weather App](/image-20210430211249947.png)
 
 ## What I use to make this
 
