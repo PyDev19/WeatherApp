@@ -34,3 +34,6 @@ Ok so for other people who would like to make apps like this here are some thing
 3. Other module that will help you in your app
 4. You need to have PyInstaller to convert your app into an executable
 5. You need to have/know Inno Setup to create installer for your app
+
+## Download Latest Version Here: [Download!](https://github.com/YamiAtem/WeatherApp/releases)
+
