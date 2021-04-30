@@ -2,9 +2,10 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "Weather App"
-#define MyAppVersion "1.4"
+#define MyAppVersion "1.4.1"
 #define MyAppPublisher "Atharva Mishra"
 #define MyAppURL "https://github.com/YamiAtem/WeatherApp"
+#define MyAppUpdatesURL "https://github.com/YamiAtem/WeatherApp/releases"
 #define MyAppExeName "Main.exe"
 
 [Setup]
@@ -17,7 +18,7 @@ AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
-AppUpdatesURL={#MyAppURL}
+AppUpdatesURL={#MyAppUpdatesURL}
 DefaultDirName={autopf}\WeatherApp
 DefaultGroupName={#MyAppName}
 AllowNoIcons=yes
