@@ -6,6 +6,7 @@
 #define MyAppPublisher "Atharva Mishra"
 #define MyAppURL "https://github.com/YamiAtem/WeatherApp"
 #define MyAppUpdatesURL "https://github.com/YamiAtem/WeatherApp/releases"
+#define MyAppSupportURL "https://yamiatem.github.io/WeatherApp/"
 #define MyAppExeName "Main.exe"
 
 [Setup]
@@ -17,7 +18,7 @@ AppVersion={#MyAppVersion}
 ;AppVerName={#MyAppName} {#MyAppVersion}
 AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
-AppSupportURL={#MyAppURL}
+AppSupportURL={#MyAppSupportURL}
 AppUpdatesURL={#MyAppUpdatesURL}
 DefaultDirName={autopf}\WeatherApp
 DefaultGroupName={#MyAppName}
